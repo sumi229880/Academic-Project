@@ -1,0 +1,30 @@
+This web application is based on MVC architecture where in we have modals 
+controllers too handle different requests. I will quicky go through the application
+and give you the feel how it looks like. This application basically allows user to 
+post an advertisement of a product that he/she wants t sell by creating an 
+account. This particular product is listed in one of the category in the home page
+of the application which every body can see and contact the person if they are
+interested.
+This is home page of the site where in we have different categories like mobiles
+electronics, vehicles, furniture etc. When the user post an advertisement it
+sits in one of these category. If you find your product doesnot belong to any
+of these category then you can just post it in others category.
+If I click in this particular category furniture then you can see all the furnitures
+avaliable for sale and their prices and contact information of the person who 
+want to sell this particular item. There is brief descripition too about the product.
+ok so lets go ahead and post some adds, click on post free add. It will ask you to 
+login first to post an advertisement which is good thing without creating an account
+you are not allowed to post an add in the website. So as I dont have an account I cannot
+enter the credentials so I will create new, click on not yet registered. This is signup page
+enter your details. Note that you cannot have same userid as that of others and it gets verified 
+asynchronously and says userid already exists. And there are some checks for the phone number,
+husky Id i.e my college ID, email. 
+After creating an account you login and now you can post an advertisemt clicl on this. Select the
+category say for example I want to sell my iphone, select mobile enter the details. select the photo
+and click post. My add posted successfully. You can see your add in the mobile category.
+You can delete or update the add. click on show my adds click updtate to update the details 
+entered or you want to delete the add delete it.
+One more thing to notice is that when you click on terms of use in the home page you can notic
+your name in this pdf file which is created dynamically as you are signed in.
+When you logout and see you wont see your name. So this is pretty much about this app hope 
+you like it. Thank you and happy learning. 
