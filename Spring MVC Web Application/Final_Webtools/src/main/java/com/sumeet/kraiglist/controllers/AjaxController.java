@@ -41,7 +41,6 @@ public class AjaxController {
         }
         return null;
     }
-	
 	@RequestMapping(value="/searchmail.htm" , method = RequestMethod.POST)
     protected String doSubmitActionMail(HttpServletRequest request,HttpServletResponse response)
         throws Exception
